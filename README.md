@@ -10,7 +10,7 @@ Required packages:
 * joblib
 
 In order to use KIKO for causal discovery of simulated data use kiko.py with the desired option.
-```python
+```bat
 python kiko.py 4 500
 ```
 
