@@ -1,6 +1,6 @@
-# KIKO (Knock In Knock Out): Scaling Causal Inference in Additive Noise Models
+# Scaling Causal Inference in Additive Noise Models: KIKO (Knock In Knock Out): 
 
-Link to the paper: soon
+Link to the paper: http://proceedings.mlr.press/v104/assaad19a/assaad19a.pdf
 
 Required packages:
 * tensorflow
